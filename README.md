@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Software Developer Intern<br>Experience in Machine learing using python.<br>currently learning web developemnt
+A passionate Software Developer Intern with hands-on experience in Machine Learning and Deep Learning using Python. Skilled in working with popular libraries to build data-driven solutions and extract meaningful insights. <br>Currently expanding my expertise in Web Development, with a strong interest in full-stack technologies. Open to work, highly motivated, and eager to learn and adapt to new tech stacks.
 
 
 ## 🌐 Socials:
