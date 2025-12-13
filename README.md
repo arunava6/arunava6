@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Software Developer Intern<br>currently learning python with numpy, pandas
+A passionate Software Developer Intern<br>Experience in Machine learing using python.<br>currently learning web developemnt
 
 
 ## 🌐 Socials:
