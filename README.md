@@ -65,19 +65,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arunava6&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arunava6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunava6&theme=dark&layout=compact)
 
----
 
-## 🎯 Goals
-- Master **Backend Engineering (Spring Boot + Microservices)**
-- Learn **System Design & Distributed Systems**
-- Build scalable real-world applications
-
----
-
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=arunava6&icon=0&color=0)
